@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhelison
-- 👀 I’m interested in react/python
-- 🌱 I’m currently learning electron/django
+- 👀 I’m interested in Rust
+- 🌱 I’m currently learning blockchain
 - 💞️ I’m looking to collaborate on special projects
 
 - 📫 How to reach me **jhelisong@gmail.com**
